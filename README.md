@@ -3,10 +3,12 @@
 I'm **Yobubble** (Yob is OK), a driven FullStack and DevOps learner who aims for exploring in the tech world 🌊
 
 ### Front-end
-<img src="/assets/images/react.svg" alt="Typescript" width="50" height="50">
-<img src="/assets/images/next-js.svg" alt="Typescript" width="50" height="50">
-<img src="/assets/images/tailwind-css.svg" alt="Typescript" width="50" height="50">
-<img src="/assets/images/shadcn.png" alt="Typescript" style ="border-radius: 30px;" width="50" height="50">
+<main style="display: flex;">
+    <img src="/assets/images/react.svg" alt="Typescript" width="50" height="50">
+    <img src="/assets/images/next-js.svg" alt="Typescript" width="50" height="50">
+    <img src="/assets/images/tailwind-css.svg" alt="Typescript" width="50" height="50">
+    <img src="/assets/images/shadcn.png" alt="Typescript" style ="border-radius: 30px;" width="50" height="50">
+</main>
 
 ### Mobile
 <img src="/assets/images/flutter.svg" alt="Typescript" width="50" height="50">

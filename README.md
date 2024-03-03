@@ -1,7 +1,7 @@
-<h2 align="center">Hi ~ I'm **Yobubble** 👋 💫</h2>
+<h1 align="center">Hi ~ I'm **Yobubble** 👋 💫</h1>
 
 <p align="center">
-    or you can call me **Yob**. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊
+    or you can call me <b>Yob</b>. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊
 </p>
   
 

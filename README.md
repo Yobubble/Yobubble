@@ -1,8 +1,9 @@
 # Hi ~ I'm **Yobubble** 👋 💫
 
- or you can call me **Yob**. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊
+<h4 align="center">or you can call me **Yob**. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊</h3>
+  
 
-#### Languages and Tools
+### Languages and Tools
 - Front-end
 <p align="left">
   <a href="https://skillicons.dev">
@@ -39,7 +40,7 @@
   </a>
 </p>
   
-#### Field of interest
+### Field of interest
 - Automation
 - Web Application
 - DevOps Workflow

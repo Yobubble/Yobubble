@@ -3,7 +3,15 @@
 I'm **Yobubble**, or you can call me **Yob**. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊
 
 ### Front-end
-<img src="/assets/images/react.svg" alt="Typescript" width="50" height="50"> <img src="/assets/images/next-js.svg" alt="Next.js" width="50" height="50"> <img src="/assets/images/tailwind-css.svg" alt="Tailwind CSS" width="50" height="50"> <img src="/assets/images/shadcn.png" alt="Shadcn/ui" style ="border-radius: 30px;" width="50" height="50">
+<!-- <img src="/assets/images/react.svg" alt="Typescript" width="50" height="50"> <img src="/assets/images/next-js.svg" alt="Next.js" width="50" height="50"> <img src="/assets/images/tailwind-css.svg" alt="Tailwind CSS" width="50" height="50"> <img src="/assets/images/shadcn.png" alt="Shadcn/ui" style ="border-radius: 30px;" width="50" height="50"> -->
+
+<!-- <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind," />
+  </a>
+</p> -->
+
+![shadcnui](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=shadcnui&logoColor=000000)
 
 
 ### Mobile

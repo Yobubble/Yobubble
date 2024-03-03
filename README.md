@@ -1,6 +1,8 @@
-# Hi ~ I'm **Yobubble** 👋 💫
+<h2 align="center">Hi ~ I'm **Yobubble** 👋 💫</h2>
 
-<h4 align="center">or you can call me **Yob**. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊</h3>
+<p align="center">
+    or you can call me **Yob**. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊
+</p>
   
 
 ### Languages and Tools
@@ -41,6 +43,6 @@
 </p>
   
 ### Field of interest
-- Automation
-- Web Application
-- DevOps Workflow
+- 💎 Automation
+- 💻 Web Application
+- 🌊 DevOps Workflow

@@ -1,4 +1,4 @@
-<h1 align="center">Hi ~ I'm **Yobubble** 👋 💫</h1>
+<h1 align="center">Hi ~ I'm Yobubble 👋 💫</h1>
 
 <p align="center">
     or you can call me <b>B</b>. I'm a driven learner in FullStack and DevOps, aiming to explore the vast world of technology. 🌊

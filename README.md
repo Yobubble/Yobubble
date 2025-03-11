@@ -9,7 +9,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,vercel" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,vite" />
   </a>
 </p>
 
@@ -30,21 +30,21 @@
 - Cloud Platform
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vercel" />
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare" />
   </a>
 </p>
 
-- CI/CD Tools
+- DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible," />
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions,ansible,vercel,docker" />
   </a>
 </p>
 
 - Other Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=github,git,postman,notion" />
   </a>
 </p>
 
@@ -52,3 +52,4 @@
 
 - 💎 Automation
 - 💻 Web Application
+- 💫 Anime and Music

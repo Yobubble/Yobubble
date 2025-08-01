@@ -1,3 +1,3 @@
 # Hi~, I'm Yobubble 💫
 
-A self-taught enthusiasm who loves wandering around tech thingies, especially on the operation side :3
+A self-taught enthusiast who loves wandering around tech thingies, especially on the operation side :3
